@@ -1,5 +1,5 @@
 # fabric-baas
-基于fabric区块链的baas平台，是一个demo，前端展示比较简陋
+基于fabric区块链的baas平台，是一个demo，前端展示比较简陋，前后端代码暂时没有开源，很多东西都写的十分臃肿和复杂，只是用作自己实验用
 ### 创建新的区块链环境：
 ![截屏2021-11-17 上午11 21 51](https://user-images.githubusercontent.com/27837784/142128525-4be63e03-33d1-481a-aeb7-4a22aef9f4cf.png)
 ![截屏2021-11-17 上午11 13 39](https://user-images.githubusercontent.com/27837784/142128409-86e5738f-86f9-4dc8-aa4c-febf1f6062ba.png)
